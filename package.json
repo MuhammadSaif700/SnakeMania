@@ -1,0 +1,12 @@
+{
+  "name": "milkyway-basketball",
+  "version": "1.0.0",
+  "description": "Professional 5v5 basketball demo built with Three.js",
+  "main": "game.js",
+  "scripts": {
+    "start": "npx http-server . -p 8080",
+    "serve-python": "python -m http.server 8080"
+  },
+  "author": "",
+  "license": "MIT"
+}
